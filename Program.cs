@@ -54,8 +54,7 @@ builder.Services.AddSwaggerGen(options =>
 
 // Database (LocalDB)
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
-
+   options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 // -------------------------
 // 2️⃣ JWT CONFIGURATION
 // -------------------------
