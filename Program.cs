@@ -53,8 +53,18 @@ builder.Services.AddSwaggerGen(options =>
 });
 
 // Database (LocalDB)
+// Database (Railway MySQL)
+var host = Environment.GetEnvironmentVariable("MYSQLHOST");
+var port = Environment.GetEnvironmentVariable("MYSQLPORT");
+var database = Environment.GetEnvironmentVariable("MYSQLDATABASE");
+var user = Environment.GetEnvironmentVariable("MYSQLUSER");
+var password = Environment.GetEnvironmentVariable("MYSQLPASSWORD");
+
+var connectionString = $"Server={host};Port={port};Database={database};User={user};Password={password};SslMode=None;";
+
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
-   options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+    options.UseMySql(connectionString, new MySqlServerVersion(new Version(8, 0, 32))));
+
 // -------------------------
 // 2️⃣ JWT CONFIGURATION
 // -------------------------
@@ -132,6 +142,8 @@ app.MapControllers();
 using (var scope = app.Services.CreateScope())
 {
     var db = scope.ServiceProvider.GetRequiredService<ApplicationDbContext>();
+
+    db.Database.EnsureCreated();
 
     if (!db.Candidates.Any())
     {
