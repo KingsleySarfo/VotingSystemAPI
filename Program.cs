@@ -53,8 +53,19 @@ builder.Services.AddSwaggerGen(options =>
 });
 
 // Database (PostgreSQL)
+var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+
+// Convert Render's postgres:// URI into a standard ADO.NET connection string
+if (!string.IsNullOrEmpty(connectionString) && connectionString.StartsWith("postgres://"))
+{
+    var uri = new Uri(connectionString);
+    var userInfo = uri.UserInfo.Split(':');
+    var port = uri.Port > 0 ? uri.Port : 5432;
+    connectionString = $"Host={uri.Host};Port={port};Database={uri.LocalPath.TrimStart('/')};Username={userInfo[0]};Password={userInfo[1]};SslMode=Require;TrustServerCertificate=True;";
+}
+
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
-   options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
+   options.UseNpgsql(connectionString));
 
 // -------------------------
 // 2️⃣ JWT CONFIGURATION
