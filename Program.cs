@@ -52,18 +52,9 @@ builder.Services.AddSwaggerGen(options =>
     });
 });
 
-// Database (LocalDB)
-// Database (Railway MySQL)
-var host = Environment.GetEnvironmentVariable("MYSQLHOST");
-var port = Environment.GetEnvironmentVariable("MYSQLPORT");
-var database = Environment.GetEnvironmentVariable("MYSQLDATABASE");
-var user = Environment.GetEnvironmentVariable("MYSQLUSER");
-var password = Environment.GetEnvironmentVariable("MYSQLPASSWORD");
-
-var connectionString = $"Server={host};Port={port};Database={database};User={user};Password={password};SslMode=None;";
-
+// Database (PostgreSQL)
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
-    options.UseMySql(connectionString, new MySqlServerVersion(new Version(8, 0, 32))));
+   options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 // -------------------------
 // 2️⃣ JWT CONFIGURATION
@@ -143,7 +134,9 @@ using (var scope = app.Services.CreateScope())
 {
     var db = scope.ServiceProvider.GetRequiredService<ApplicationDbContext>();
 
-    db.Database.EnsureCreated();
+
+    // Automatically apply pending migrations to the PostgreSQL database
+    db.Database.Migrate();
 
     if (!db.Candidates.Any())
     {

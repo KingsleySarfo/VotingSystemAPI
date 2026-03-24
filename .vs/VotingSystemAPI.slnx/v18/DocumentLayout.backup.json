@@ -3,72 +3,72 @@
   "WorkspaceRootPath": "C:\\Users\\STEPPING\\Documents\\MyProjects\\VotingSystemAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{733D2CB6-DABB-B1E4-D048-E31946557472}|VotingSystemAPI.csproj|c:\\users\\stepping\\documents\\myprojects\\votingsystemapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{733D2CB6-DABB-B1E4-D048-E31946557472}|VotingSystemAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\STEPPING\\Documents\\MyProjects\\VotingSystemAPI\\VotingSystemAPI.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VotingSystemAPI.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{733D2CB6-DABB-B1E4-D048-E31946557472}|VotingSystemAPI.csproj|c:\\users\\stepping\\documents\\myprojects\\votingsystemapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{733D2CB6-DABB-B1E4-D048-E31946557472}|VotingSystemAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\STEPPING\\Documents\\MyProjects\\VotingSystemAPI\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{733D2CB6-DABB-B1E4-D048-E31946557472}|VotingSystemAPI.csproj|c:\\users\\stepping\\documents\\myprojects\\votingsystemapi\\controllers\\votecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{733D2CB6-DABB-B1E4-D048-E31946557472}|VotingSystemAPI.csproj|solutionrelative:controllers\\votecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\STEPPING\\Documents\\MyProjects\\VotingSystemAPI\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{733D2CB6-DABB-B1E4-D048-E31946557472}|VotingSystemAPI.csproj|c:\\users\\stepping\\documents\\myprojects\\votingsystemapi\\votingsystemapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{733D2CB6-DABB-B1E4-D048-E31946557472}|VotingSystemAPI.csproj|solutionrelative:votingsystemapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\STEPPING\\Documents\\MyProjects\\VotingSystemAPI\\Controllers\\VoteController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\VoteController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{733D2CB6-DABB-B1E4-D048-E31946557472}|VotingSystemAPI.csproj|c:\\users\\stepping\\documents\\myprojects\\votingsystemapi\\controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{733D2CB6-DABB-B1E4-D048-E31946557472}|VotingSystemAPI.csproj|solutionrelative:controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\STEPPING\\Documents\\MyProjects\\VotingSystemAPI\\Controllers\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{733D2CB6-DABB-B1E4-D048-E31946557472}|VotingSystemAPI.csproj|c:\\users\\stepping\\documents\\myprojects\\votingsystemapi\\dtos\\candidatecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{733D2CB6-DABB-B1E4-D048-E31946557472}|VotingSystemAPI.csproj|solutionrelative:dtos\\candidatecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\STEPPING\\Documents\\MyProjects\\VotingSystemAPI\\Models\\Candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{733D2CB6-DABB-B1E4-D048-E31946557472}|VotingSystemAPI.csproj|c:\\users\\stepping\\documents\\myprojects\\votingsystemapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{733D2CB6-DABB-B1E4-D048-E31946557472}|VotingSystemAPI.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\STEPPING\\Documents\\MyProjects\\VotingSystemAPI\\Controllers\\CandidateController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\CandidateController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{733D2CB6-DABB-B1E4-D048-E31946557472}|VotingSystemAPI.csproj|c:\\users\\stepping\\documents\\myprojects\\votingsystemapi\\models\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{733D2CB6-DABB-B1E4-D048-E31946557472}|VotingSystemAPI.csproj|solutionrelative:models\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\STEPPING\\Documents\\MyProjects\\VotingSystemAPI\\Migrations\\20260319051411_AddCandidateImage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260319051411_AddCandidateImage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{733D2CB6-DABB-B1E4-D048-E31946557472}|VotingSystemAPI.csproj|c:\\users\\stepping\\documents\\myprojects\\votingsystemapi\\migrations\\20260318175028_fixvotetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{733D2CB6-DABB-B1E4-D048-E31946557472}|VotingSystemAPI.csproj|solutionrelative:migrations\\20260318175028_fixvotetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\STEPPING\\Documents\\MyProjects\\VotingSystemAPI\\DTOs\\CandidateCreateDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DTOs\\CandidateCreateDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{733D2CB6-DABB-B1E4-D048-E31946557472}|VotingSystemAPI.csproj|c:\\users\\stepping\\documents\\myprojects\\votingsystemapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{733D2CB6-DABB-B1E4-D048-E31946557472}|VotingSystemAPI.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\STEPPING\\Documents\\MyProjects\\VotingSystemAPI\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{733D2CB6-DABB-B1E4-D048-E31946557472}|VotingSystemAPI.csproj|c:\\users\\stepping\\documents\\myprojects\\votingsystemapi\\models\\vote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{733D2CB6-DABB-B1E4-D048-E31946557472}|VotingSystemAPI.csproj|solutionrelative:models\\vote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\STEPPING\\Documents\\MyProjects\\VotingSystemAPI\\Models\\Vote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Vote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{733D2CB6-DABB-B1E4-D048-E31946557472}|VotingSystemAPI.csproj|c:\\users\\stepping\\documents\\myprojects\\votingsystemapi\\dtos\\votedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{733D2CB6-DABB-B1E4-D048-E31946557472}|VotingSystemAPI.csproj|solutionrelative:dtos\\votedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\STEPPING\\Documents\\MyProjects\\VotingSystemAPI\\DTOs\\VoteDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DTOs\\VoteDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{733D2CB6-DABB-B1E4-D048-E31946557472}|VotingSystemAPI.csproj|c:\\users\\stepping\\documents\\myprojects\\votingsystemapi\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{733D2CB6-DABB-B1E4-D048-E31946557472}|VotingSystemAPI.csproj|solutionrelative:dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\STEPPING\\Documents\\MyProjects\\VotingSystemAPI\\Migrations\\20260318175028_FixVoteTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260318175028_FixVoteTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{733D2CB6-DABB-B1E4-D048-E31946557472}|VotingSystemAPI.csproj|c:\\users\\stepping\\documents\\myprojects\\votingsystemapi\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{733D2CB6-DABB-B1E4-D048-E31946557472}|VotingSystemAPI.csproj|solutionrelative:dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\STEPPING\\Documents\\MyProjects\\VotingSystemAPI\\DTOs\\RegisterDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DTOs\\RegisterDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{733D2CB6-DABB-B1E4-D048-E31946557472}|VotingSystemAPI.csproj|c:\\users\\stepping\\documents\\myprojects\\votingsystemapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{733D2CB6-DABB-B1E4-D048-E31946557472}|VotingSystemAPI.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\STEPPING\\Documents\\MyProjects\\VotingSystemAPI\\DTOs\\LoginDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DTOs\\LoginDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{733D2CB6-DABB-B1E4-D048-E31946557472}|VotingSystemAPI.csproj|c:\\users\\stepping\\documents\\myprojects\\votingsystemapi\\votingsystemapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{733D2CB6-DABB-B1E4-D048-E31946557472}|VotingSystemAPI.csproj|solutionrelative:votingsystemapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\STEPPING\\Documents\\MyProjects\\VotingSystemAPI\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{733D2CB6-DABB-B1E4-D048-E31946557472}|VotingSystemAPI.csproj|c:\\users\\stepping\\documents\\myprojects\\votingsystemapi\\migrations\\20260319051411_addcandidateimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{733D2CB6-DABB-B1E4-D048-E31946557472}|VotingSystemAPI.csproj|solutionrelative:migrations\\20260319051411_addcandidateimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\STEPPING\\Documents\\MyProjects\\VotingSystemAPI\\VotingSystemAPI.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VotingSystemAPI.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,11 +78,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "VoteController.cs",
               "DocumentMoniker": "C:\\Users\\STEPPING\\Documents\\MyProjects\\VotingSystemAPI\\Controllers\\VoteController.cs",
               "RelativeDocumentMoniker": "Controllers\\VoteController.cs",
@@ -95,33 +95,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\STEPPING\\Documents\\MyProjects\\VotingSystemAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\STEPPING\\Documents\\MyProjects\\VotingSystemAPI\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIcAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAACCZngrwAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-18T15:16:10.415Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\STEPPING\\Documents\\MyProjects\\VotingSystemAPI\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\STEPPING\\Documents\\MyProjects\\VotingSystemAPI\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACBAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-03-18T15:17:10.084Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "VotingSystemAPI.csproj",
               "DocumentMoniker": "C:\\Users\\STEPPING\\Documents\\MyProjects\\VotingSystemAPI\\VotingSystemAPI.csproj",
               "RelativeDocumentMoniker": "VotingSystemAPI.csproj",
@@ -129,11 +129,12 @@
               "RelativeToolTip": "VotingSystemAPI.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-18T15:08:27.614Z"
+              "WhenOpened": "2026-03-18T15:08:27.614Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\STEPPING\\Documents\\MyProjects\\VotingSystemAPI\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
@@ -145,7 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "Candidate.cs",
               "DocumentMoniker": "C:\\Users\\STEPPING\\Documents\\MyProjects\\VotingSystemAPI\\Models\\Candidate.cs",
               "RelativeDocumentMoniker": "Models\\Candidate.cs",
@@ -157,7 +158,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "CandidateController.cs",
               "DocumentMoniker": "C:\\Users\\STEPPING\\Documents\\MyProjects\\VotingSystemAPI\\Controllers\\CandidateController.cs",
               "RelativeDocumentMoniker": "Controllers\\CandidateController.cs",
@@ -169,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 7,
               "Title": "20260319051411_AddCandidateImage.cs",
               "DocumentMoniker": "C:\\Users\\STEPPING\\Documents\\MyProjects\\VotingSystemAPI\\Migrations\\20260319051411_AddCandidateImage.cs",
               "RelativeDocumentMoniker": "Migrations\\20260319051411_AddCandidateImage.cs",
@@ -181,7 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "CandidateCreateDto.cs",
               "DocumentMoniker": "C:\\Users\\STEPPING\\Documents\\MyProjects\\VotingSystemAPI\\DTOs\\CandidateCreateDto.cs",
               "RelativeDocumentMoniker": "DTOs\\CandidateCreateDto.cs",
@@ -229,7 +230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "20260318175028_FixVoteTable.cs",
               "DocumentMoniker": "C:\\Users\\STEPPING\\Documents\\MyProjects\\VotingSystemAPI\\Migrations\\20260318175028_FixVoteTable.cs",
               "RelativeDocumentMoniker": "Migrations\\20260318175028_FixVoteTable.cs",
@@ -253,7 +254,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "LoginDto.cs",
               "DocumentMoniker": "C:\\Users\\STEPPING\\Documents\\MyProjects\\VotingSystemAPI\\DTOs\\LoginDto.cs",
               "RelativeDocumentMoniker": "DTOs\\LoginDto.cs",
@@ -265,7 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\STEPPING\\Documents\\MyProjects\\VotingSystemAPI\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
@@ -277,8 +278,8 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "VotingSystemAPI",
+              "DocumentIndex": 16,
+              "Title": "VotingSystemAPI.csproj",
               "DocumentMoniker": "C:\\Users\\STEPPING\\Documents\\MyProjects\\VotingSystemAPI\\VotingSystemAPI.csproj",
               "RelativeDocumentMoniker": "VotingSystemAPI.csproj",
               "ToolTip": "C:\\Users\\STEPPING\\Documents\\MyProjects\\VotingSystemAPI\\VotingSystemAPI.csproj",
